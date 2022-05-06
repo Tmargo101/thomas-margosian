@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/thomas-margosian/static/css/main.073c9b0a.css",
+    "main.js": "/thomas-margosian/static/js/main.472683be.js",
+    "static/js/787.a2518b44.chunk.js": "/thomas-margosian/static/js/787.a2518b44.chunk.js",
+    "static/media/logo.svg": "/thomas-margosian/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/thomas-margosian/index.html",
+    "main.073c9b0a.css.map": "/thomas-margosian/static/css/main.073c9b0a.css.map",
+    "main.472683be.js.map": "/thomas-margosian/static/js/main.472683be.js.map",
+    "787.a2518b44.chunk.js.map": "/thomas-margosian/static/js/787.a2518b44.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.472683be.js"
+  ]
+}
